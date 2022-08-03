@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithArea", "ArithArea\ArithArea.csproj", "{B183176B-F941-4366-9D94-AF067FDDB674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B183176B-F941-4366-9D94-AF067FDDB674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B183176B-F941-4366-9D94-AF067FDDB674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B183176B-F941-4366-9D94-AF067FDDB674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B183176B-F941-4366-9D94-AF067FDDB674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7134316-2EBA-4607-9FD4-0C661497514B}
+	EndGlobalSection
+EndGlobal
